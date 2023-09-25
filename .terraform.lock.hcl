@@ -1,0 +1,24 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/skyscrapr/pinecone" {
+  version = "0.2.1"
+  hashes = [
+    "h1:W4b1W3gqUCWRbgcNVF/bIZ0Cx/haQR/SQpNfvy+hUdQ=",
+    "zh:263f8bb7c12697831d7f815e7056e441a44afb38a111d43714a925d8d84732d3",
+    "zh:2e090a0575d22ca1aa114424b2f5244743e0bfb8ff8551b1f7c0f7c5b838a73c",
+    "zh:39d3d4717713357fa81073b84b57b5c63a96e8c453f00f6a0dd019b96985da3a",
+    "zh:4e94c0e5a6643ff8761a67c339fd8cf56fa233aa803ca18a579d01cbf6ac237f",
+    "zh:5d26ddd1749dab07a8c4a6263dc71cc76008f46999e335c1b6030d5aa704efa4",
+    "zh:608db7a51b81c1fe09518cea35c9c9647b13d6b484b3e0264da8abef53011967",
+    "zh:6979ccc1061f4737d257519e5995dfa2f975aba3d8141cc545ebf56e2da30626",
+    "zh:890df766e9b839623b1f0437355032a3c006226a6c200cd911e15ee1a9014e9f",
+    "zh:9b18ea2e6df8431133a98ad56718f572414bfd86bb7ec88360a7288b149c0211",
+    "zh:9f739c6a3ac5b8c50679a7809533a760e036d840dca36779050a7bf782cf5355",
+    "zh:a09fa4167e14f60f3b3fa8966c35cd6a41f9d4efc9642ecb6a2fe65293eb3669",
+    "zh:c0d94d2cddde0e67492516e1589ae3cb9fdd131cdb4c446927cd3d0755ee4c62",
+    "zh:cfda77b73312d85aa44704bf5344065c73180e705a069a50f9712a0d20b9e970",
+    "zh:ee4ca8b575bb4c79907b8dd4a25684fe36baf7f8870afc89b95a03befa9515af",
+    "zh:f2d739935b8e5f6ad0a67a4bff62ab8aeca6850a6ea22963e390b1ab7083d87d",
+  ]
+}
